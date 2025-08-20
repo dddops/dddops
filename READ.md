@@ -1,5 +1,5 @@
 Hi there <br/>
-I'm a student studying to become a developer.
+I'm a student studying to become a developer.<br/>
 https://velog.io/@dddops/posts <br/>
 Come here if you want to follow my progress, as I'm always posting about what I'm learning.
 blow is the tech stacks that i learned or currently learning
