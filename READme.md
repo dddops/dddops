@@ -5,9 +5,9 @@ Come here if you want to follow my progress, as I'm always posting about what I'
 blow is the tech stacks that i learned or currently learning
 
 ![python](https://github.com/user-attachments/assets/85f9c8a7-d100-4b16-ba9d-4853e308a071)
+![Linux](https://github.com/user-attachments/assets/33bff800-bb39-462c-8b76-6741a42e9593)
+![git](https://github.com/user-attachments/assets/adb0dea5-2b2a-4017-960d-6118ecda3a28)
 
-<img width="616" height="341" alt="리눅스" src="https://github.com/user-attachments/assets/70cf8517-a846-476d-9983-d30296328708" />
-<img width="616" height="341" alt="깃" src="https://github.com/user-attachments/assets/9b228ac6-1b5a-4c22-9064-7f515337c75b" />
 <img width="616" height="341" alt="마이에스큐엘" src="https://github.com/user-attachments/assets/efd77d7b-441d-4405-8999-79b8e989a251" />
 
 What? some of them aren't even tech stacks? ~~**WHO CARES**~~
