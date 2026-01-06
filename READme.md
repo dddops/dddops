@@ -8,6 +8,6 @@ blow is the tech stacks that i learned or currently learning
 ![Linux](https://github.com/user-attachments/assets/33bff800-bb39-462c-8b76-6741a42e9593)
 ![git](https://github.com/user-attachments/assets/adb0dea5-2b2a-4017-960d-6118ecda3a28)
 ![Mysql](https://github.com/user-attachments/assets/eb9d4cfa-d328-47c4-a913-8ce869e2d2cb)
+![django (1)](https://github.com/user-attachments/assets/b3fe7b80-0ea2-4889-bed1-7bdea68e64f9)
 
-<br/>
 ps. I will add them one by one as I learn them.
